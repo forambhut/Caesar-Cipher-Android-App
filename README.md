@@ -1,3 +1,6 @@
-# Caesar_Cipher
+# Caesar Cipher Android app
 
-It is an android studio project of how to perform caesar cipher
+-----
+Caesar Cipher is an application for android devices that helps people to memorize passwords and other codes in a secure way with "Caesar chipper", the first cipher ever made.
+
+----
